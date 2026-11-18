@@ -122,7 +122,7 @@ This extension is available from the extensions marketplace starting v.5.3.0. He
 1. Download the source code using `git` / OR download the .zip and unpack it
 
   ```
-  git clone git@github.com:zapaishchykova/SegmentationReview.git
+  git clone git@github.com:annazielke/SegmentationReview.git
   ```
 
 (Optional) Enable the [developer mode](https://slicer.readthedocs.io/en/latest/user_guide/settings.html#developer-mode) will allow to reload the module from source without having to restart the application.
